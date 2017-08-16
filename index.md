@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my awesome site!
 
 You can use the [editor on GitHub](https://github.com/rensa/jekylltest/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
